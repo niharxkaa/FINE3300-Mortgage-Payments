@@ -1,0 +1,19 @@
+# FINE 3300 - Assignment 1 Write-Up
+
+## 1. GitHub Repository Link
+
+https://github.com/niharxkaa/FINE3300-Mortgage-Payments
+
+## 2. Program Output (Principal: $500,000, Rate: 5.5%, Amortization: 25 years)
+Monthly Payment: $3,051.95  
+Semi-monthly Payment: $1,526.48  
+Bi-weekly Payment: $1,410.92  
+Weekly Payment: $705.46  
+Rapid Bi-weekly Payment: $1,525.98  
+Rapid Weekly Payment: $762.99  
+
+## 3. Summary
+This Python script calculates mortgage payments for different payment schedules based on user input. It follows the present value of annuity factor formula and considers fixed-rate mortgages with semi-annual compounding.
+
+---
+Submitted by: Niharika, 218702787
